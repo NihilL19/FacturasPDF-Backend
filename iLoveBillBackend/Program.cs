@@ -1,8 +1,12 @@
+using iLoveBillBackend.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
+builder.Services.AddScoped<InvoiceService>();
+builder.Services.AddScoped<PythonService>();
+
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 

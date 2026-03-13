@@ -5,7 +5,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
-      "applicationUrl": "http://localhost:5000",
+      "applicationUrl": "http://0.0.0.0:5000", // CAMBIAMOS PARA QUE LA RED ACEPTE CONEXIONES QUE NO SEAN LOCALHOST
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

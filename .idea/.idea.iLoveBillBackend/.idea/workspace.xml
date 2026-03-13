@@ -9,20 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae41c84c-91fe-445b-84b9-bd25bac52011" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/Models/WeatherForecast.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/iLoveBillBackend.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/iLoveBillBackend.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.iLoveBillBackend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.iLoveBillBackend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/Controllers/PdfController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/Debug/net9.0/iLoveBillBackend.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/iLoveBillBackend.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/iLoveBillBackend.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/iLoveBillBackend.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/iLoveBillBackend.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/iLoveBillBackend.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/iLoveBillBackend.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iLoveBillBackend/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/iLoveBillBackend/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +35,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3f78c839318c4e869a63fe219eb89e0a2fb38/40/3e731e20/OpenApiEndpointRouteBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/aa22906e662448428ce9fe17115f7ede5400/37/b70aa7d4/MvcServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/chiquitos11/Desktop/iLoveBillBackend/iLoveBillBackend/Models/Invoice.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/chiquitos11/Desktop/iLoveBillBackend/iLoveBillBackend/Services/PythonService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/chiquitos11/Desktop/iLoveBillBackend/iLoveBillBackend/Services/PythonService.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -57,22 +56,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.iLoveBillBackend: http.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.iLoveBillBackend: http.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.39473686&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.iLoveBillBackend: http">
     <configuration name="iLoveBillBackend: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/iLoveBillBackend/iLoveBillBackend.csproj" />
@@ -113,7 +113,10 @@
       <option name="presentableId" value="Default" />
       <updated>1773027757621</updated>
       <workItem from="1773027757660" duration="2507000" />
-      <workItem from="1773030312955" duration="4252000" />
+      <workItem from="1773030312955" duration="48150000" />
+      <workItem from="1773273836914" duration="181000" />
+      <workItem from="1773274404748" duration="8874000" />
+      <workItem from="1773387605614" duration="3133000" />
     </task>
     <servers />
   </component>
@@ -152,6 +155,11 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#iLoveBillBackend.Models.InvoiceDTO" memberName="TOTAL" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

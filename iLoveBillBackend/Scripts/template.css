@@ -1,0 +1,159 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.invoice-wrapper {
+  width: 750px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 40px 50px 60px;
+  border: 1px solid #e0e0e0;
+  max-width: 100%;
+}
+
+.invoice-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.company-block {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.company-logo .logo-placeholder {
+  font-size: 18px;
+  color: #999;
+}
+
+.company-address p {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.invoice-info {
+  text-align: right;
+}
+
+.invoice-info h1 {
+  font-size: 32px;
+  font-weight: 300;
+  color: #1c87e4;
+  margin-bottom: 20px;
+}
+
+.invoice-info .order-number {
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: #999;
+  text-transform: uppercase;
+}
+
+.invoice-info .order-date {
+  margin-top: 6px;
+  font-size: 12px;
+}
+
+.items table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 40px;
+}
+
+.items thead th {
+  text-align: left;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #666;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 8px;
+}
+
+.items .col-desc {
+  width: 55%;
+}
+.items .col-id {
+  width: 15%;
+}
+.items .col-qty {
+  width: 15%;
+  text-align: center;
+}
+.items .col-subtotal {
+  width: 15%;
+  text-align: right;
+}
+
+.items tbody td {
+  font-size: 13px;
+  padding: 14px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.items tbody td:nth-child(3) {
+  text-align: center;
+}
+
+.items tbody td:nth-child(4) {
+  text-align: right;
+}
+
+.totals-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.empty-space {
+  flex: 1;
+}
+
+.totals-block {
+  width: 220px;
+  font-size: 13px;
+}
+
+.totals-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 6px;
+}
+
+.totals-row span:first-child {
+  color: #777;
+}
+
+.totals-row.total {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 2px solid #1c87e4;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.billing-info {
+  margin-top: 10px;
+}
+
+.billing-info h2 {
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #1c87e4;
+  margin-bottom: 10px;
+}
+
+.billing-info p {
+  font-size: 13px;
+  line-height: 1.6;
+}
+/*# sourceMappingURL=styles.css.map */
